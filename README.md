@@ -1,0 +1,2 @@
+# Sign Language Recognition System
+This is a sign language recognition system, built using OpenCV for real-time video processing and Google MediaPipe for efficient hand tracking and keypoint detection. It uses a deep learning model built using TensorFlow and Keras to classify sign language gestures. It also uses Matplotlib and Seaborn to generate model performance and data distribution visualizations.
